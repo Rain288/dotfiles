@@ -1,0 +1,22 @@
+// vim:ts=4:sw=4:et
+{
+    "border": "pixel",
+    "current_border_width": 8,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 391,
+       "width": 1121,
+       "x": 28,
+       "y": 681
+    },
+    "name": "New Tab - Chromium",
+    "percent": 1,
+    "swallows": [
+       {
+         "class": "^chromium$",
+         "instance": "^chromium$",
+         "window_role": "^browser$"
+       }
+    ],
+    "type": "con"
+}

@@ -1,0 +1,61 @@
+"*":
+  "atom-material-ui":
+    colors:
+      abaseColor:
+        red: 17
+        green: 168
+        blue: 191
+        alpha: 1
+      genAccent: true
+    fonts: {}
+    tabs:
+      compactTabs: true
+    treeView:
+      compactList: true
+    ui: {}
+  "autoclose-html":
+    forceBlock: [
+      "head"
+      "div"
+      "ul"
+    ]
+    forceInline: [
+      "title"
+      "h1"
+      "h2"
+      "h3"
+      "h4"
+      "h5"
+      "h6"
+      "p"
+      "span"
+      "li"
+    ]
+  core:
+    disabledPackages: [
+      "wrap-guide"
+      "background-tips"
+      "autocomplete-plus"
+      "atom-html-preview"
+    ]
+    themes: [
+      "atom-material-ui"
+      "atom-material-numix-syntax"
+    ]
+  editor:
+    fontSize: 15
+    invisibles: {}
+    scrollPastEnd: true
+    showIndentGuide: true
+    softWrap: true
+  emmet: {}
+  "exception-reporting":
+    userId: "aafdc6a2-d4a6-f9f9-b97e-6ce9b526584a"
+  "meteor-helper": {}
+  pigments:
+    markerType: "dot"
+  "tree-view":
+    hideIgnoredNames: true
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false

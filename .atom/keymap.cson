@@ -1,0 +1,6 @@
+'atom-workspace':
+  'ctrl-n': 'advanced-open-file:toggle'
+  'ctrl-o': 'advanced-open-file:toggle'
+
+'body':
+  'ctrl-shift-n': 'application:new-file'

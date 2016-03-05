@@ -1,0 +1,79 @@
+// vim:ts=4:sw=4:et
+{
+    // splitv split container with 2 children
+    "border": "normal",
+    "floating": "auto_off",
+    "layout": "splitv",
+    "percent": 0.6,
+    "type": "con",
+    "nodes": [
+        {
+            // splith split container with 1 children
+            "border": "normal",
+            "floating": "auto_off",
+            "layout": "splith",
+            "percent": 0.6,
+            "type": "con",
+            "nodes": [
+                {
+                    "border": "pixel",
+                    "current_border_width": 8,
+                    "floating": "auto_off",
+                    "geometry": {
+                       "height": 720,
+                       "width": 1280,
+                       "x": 320,
+                       "y": 180
+                    },
+                    "name": "http://127.0.0.1:41793/ - mpv",
+                    "percent": 1,
+                    "swallows": [
+                       {
+                          "class": "^mpv$"
+                       }
+                    ],
+                    "type": "con"
+                }
+            ]
+        },
+        {
+            "border": "pixel",
+            "current_border_width": 8,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 748,
+               "width": 1004,
+               "x": 1940,
+               "y": 332
+            },
+            "name": "Chat",
+            "percent": 0.4,
+            "swallows": [
+               {
+                "class": "^chromium$"
+               }
+            ],
+            "type": "con"
+        }
+    ]
+}
+
+{
+    "border": "none",
+    "current_border_width": 2,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 540,
+       "width": 960,
+       "x": 1952,
+       "y": 426
+    },
+    "name": "Livestreamer Twitch GUI",
+    "percent": 0.4,
+    "swallows": [
+       {
+         "title": "Livestreamer"
+       }
+    ],
+    "type": "con"
+}
