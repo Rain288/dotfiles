@@ -1,0 +1,4 @@
+#!/bin/bash
+
+KB="$(xkb-switch)"
+echo "$KB" | awk '{print toupper($0)}'

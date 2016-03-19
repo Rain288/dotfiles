@@ -1,0 +1,54 @@
+sw_volume: 10
+audio_device_state:1:alsa
+audio_device_state:1:FIFO
+audio_device_state:1:Rain-Arch
+state: play
+current: 8
+time: 120.105000
+random: 1
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Vocaloid/「 No title 」MV.mp3
+1:Vocaloid/【Akiakane】 FIRST 【Cover】 English Subtitles.mp3
+2:Vocaloid/【Araki】- Snow Drive.mp3
+3:Vocaloid/【GUMI】　夢幻　【オリジナルMV】.mp3
+4:Vocaloid/【Gumi】Caramel Heaven- English_Romaji Subtitles HD.mp3
+5:Vocaloid/【GUMI】IMAGINARY LIKE THE JUSTICE English subs.mp3
+6:Vocaloid/【GUMI】被害妄想携帯女子（笑）【オリジナル】.mp3
+7:Vocaloid/【HD】 人生リセットボタン 【GUMIオリジナル曲・PV付】- KEMU VOXX.mp3
+8:Vocaloid/【IA】アスノヨゾラ哨戒班【オリジナル】.mp3
+9:Vocaloid/【Konuko】- Toumei Elegy.mp3
+10:Vocaloid/【Omoi】 - Snow Drive.mp3
+11:Vocaloid/【rerulili ft.  Fukase】The day I became a Monster «English+Romaji sub».mp3
+12:Vocaloid/【Rin Kagamine V4X】Coward's Waltz 【Original】.mp3
+13:Vocaloid/【VMP】1_6 -out of the gravity- ♥ English Cover【rachie】.mp3
+14:Vocaloid/【Vocaloid Original Song】WILDFIRE!! 【Gumi English】.mp3
+15:Vocaloid/【VOCALOID Original】ECHO【Gumi English】.mp3
+16:Vocaloid/【ガラスの花と壊す世界】 【耳コピ】 センダンライフ.mp3
+17:Vocaloid/【初音ミク】 ヒビカセ 【オリジナル】.mp3
+18:Vocaloid/【初音ミク】1_6【オリジナル】 【中文字幕】.mp3
+19:Vocaloid/【初音ミクDark】　alternate　【オリジナル】.mp3
+20:Vocaloid/〔れをる〕 WAVE 〔niki × EZFG〕.mp3
+21:Vocaloid/〔れをる〕 ストリーミングハート 〔歌ってみた〕.mp3
+22:Vocaloid/〔れをる〕 脳内革命ガール 〔ill.bell〕.mp3
+23:Vocaloid/Alice in 冷凍庫 _ feat.IA.mp3
+24:Vocaloid/Caramel Heaven - Ryo Kun.mp3
+25:Vocaloid/Cryogenic 初音ミクオリジナル.mp3
+26:Vocaloid/DECO_27 - Ghost Rule feat. Hatsune Miku _ ゴーストルール feat. 初音ミク.mp3
+27:Vocaloid/ENGLISH 'ECHO' Vocaloid ( AmaLee & dj-Jo ).mp3
+28:Vocaloid/Hatsune Miku & Gumi - Matryoshka MMD PV.mp3
+29:Vocaloid/Kimi no Taion - Eryi Subbed English.mp3
+30:Vocaloid/NEVERLAND  by APG.mp3
+31:Vocaloid/RED Signal - 花たん.mp3
+32:Vocaloid/ryo(supercell) feat.初音ミク　『ODDS&ENDS』.mp3
+33:Vocaloid/WILDFIRE!! 歌った 【あらき】.mp3
+34:Vocaloid/ロミオとシンデレラ - 花たん  (Romeo and Cinderella - Hana-tan).mp3
+35:Vocaloid/和楽器バンド _ 千本桜.mp3
+36:Vocaloid/夢幻【水樹奈々】 piano ver..mp3
+37:Vocaloid/藍とサイレン _ ジグ feat. 初音ミク.mp3
+playlist_end

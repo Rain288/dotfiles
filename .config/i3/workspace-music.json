@@ -1,0 +1,53 @@
+// vim:ts=4:sw=4:et
+{
+    "border": "normal",
+    "floating": "auto_off",
+    "layout": "splith",
+    "percent": 0.7,
+    "type": "con",
+    "nodes": [
+        {
+            "border": "pixel",
+            "current_border_width": 8,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 434,
+               "width": 735,
+               "x": 0,
+               "y": 0
+            },
+            "name": "Visualizer",
+            "percent": 1,
+            "swallows": [
+               {
+                 "class": "^Gnome\\-terminal$",
+                 "instance": "^gnome\\-terminal\\-server$",
+                 "window_role": "^gnome\\-terminal\\-window\\-fec94038\\-9696\\-40a2\\-9a94\\-ec50997982b3$"
+               }
+            ],
+            "type": "con"
+        }
+    ]
+}
+
+{
+    "border": "pixel",
+    "current_border_width": 8,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 434,
+       "width": 735,
+       "x": 0,
+       "y": 0
+    },
+    "name": "Player",
+    "percent": 0.3,
+    "swallows": [
+       {
+         "class": "^Gnome\\-terminal$",
+         "instance": "^gnome\\-terminal\\-server$",
+         "window_role": "^gnome\\-terminal\\-window\\-18f425bf\\-9a75\\-4db2\\-8c40\\-3eb510aba298$"
+       }
+    ],
+    "type": "con"
+}

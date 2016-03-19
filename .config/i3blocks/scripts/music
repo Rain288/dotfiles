@@ -26,7 +26,8 @@ if [[ "$MPC_ERROR" = '' ]]; then
     MPC_STATUS="$(echo "$MPC" | awk '/\[/ { print $1 }')"
     MPC_SONG="$(echo "$MPC" | head -1)"
     if [[ "$MPC_STATUS" = '[playing]' ]]; then
-        echo "$LABEL $MPC_SONG"
+      #echo "$MPC_SONG"
+      echo "${MPC_SONG##*:}"
         #LABEL="  "
     #else
         #LABEL="  "

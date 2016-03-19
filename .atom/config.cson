@@ -2,15 +2,22 @@
   "atom-material-ui":
     colors:
       abaseColor:
-        red: 17
-        green: 168
-        blue: 191
+        red: 37
+        green: 134
+        blue: 219
+        alpha: 1
+      accentColor:
+        red: 245
+        green: 54
+        blue: 35
         alpha: 1
       genAccent: true
     fonts: {}
     tabs:
       compactTabs: true
+      tintedTabBar: true
     treeView:
+      blendTabs: true
       compactList: true
     ui: {}
   "autoclose-html":
@@ -32,6 +39,7 @@
       "li"
     ]
   core:
+    autoHideMenuBar: true
     disabledPackages: [
       "wrap-guide"
       "background-tips"
